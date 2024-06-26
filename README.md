@@ -49,3 +49,10 @@ Join our community of developers creating universal apps.
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 # outlandico
+
+
+## changed the name of the project to Outlandio
+
+- I was having issues finding a good api that I could understand for the autism.
+- I decided to go with file upload for a t-shirt printing business
+- Tbe app is broken right now. It got complicated of the new files
